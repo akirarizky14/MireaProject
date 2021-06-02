@@ -12,4 +12,12 @@
     <string name="menu_slideshow">Slideshow</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="custom_greetings">Custom Greetings</string>
+    <string name="yellow">Yellow</string>
+    <string name="night">Night</string>
+    <string name="hello_user" />
+    <string name="customization">Customization</string>
+    <string name="dark">Dark</string>
+    <string name="change_greeting">Change greeting</string>
+    <string name="enter_new_greeting">Enter new greeting...</string>
 </resources>

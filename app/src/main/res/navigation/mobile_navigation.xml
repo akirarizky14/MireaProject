@@ -35,4 +35,16 @@
         android:label="WebView"
         tools:layout="@layout/fragment_web_view"
         />
+    <fragment
+        android:id="@+id/nav_Parameters"
+        android:name="ru.mirea.rosyadi.akira.rizky.mireaproject.ui.Customization.Parameters"
+        android:label="Parameters"
+        tools:layout="@layout/fragment_parameters"
+        />
+    <fragment
+        android:id="@+id/nav_Histories"
+        android:name="ru.mirea.rosyadi.akira.rizky.mireaproject.ui.Histories.Histories"
+        android:label="Histories"
+        tools:layout="@layout/fragment_histories"
+        />
 </navigation>
