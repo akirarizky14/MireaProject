@@ -47,4 +47,9 @@
         android:label="Histories"
         tools:layout="@layout/fragment_histories"
         />
+    <fragment
+        android:id="@+id/nav_page"
+        android:name="ru.mirea.rosyadi.akira.rizky.mireaproject.ui.Page.Pages"
+        android:label="Pages"
+        tools:layout="@layout/fragment_pages" />
 </navigation>
