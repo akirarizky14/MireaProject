@@ -36,5 +36,9 @@
             android:id="@+id/nav_page"
             android:icon="?android:attr/listChoiceIndicatorSingle"
             android:title="Pages" />
+        <item
+            android:id="@+id/nav_yandexmaps"
+            android:icon="?android:attr/listChoiceIndicatorSingle"
+            android:title="YandexMaps" />
     </group>
 </menu>
